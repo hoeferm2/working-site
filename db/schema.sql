@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS monkeys_vs;
+
+CREATE DATABASE monkeys_vs;
